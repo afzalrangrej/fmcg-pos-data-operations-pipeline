@@ -1,0 +1,16 @@
+NIQ_Item_Code,EAN_Barcode,Canonical_Brand,Category,Sub_Category,Pack_Size_Value,Pack_Unit,Base_MRP
+NIQ-1001,8901262010016,Amul,Dairy,Butter,500,g,285.0
+NIQ-1002,8901262010023,Amul,Dairy,Milk,1000,ml,68.0
+NIQ-1003,8901491101837,Lay's,Snacks,Potato Chips,52,g,20.0
+NIQ-1004,8901491101844,Lay's,Snacks,Potato Chips,90,g,50.0
+NIQ-1005,8901063092617,Britannia,Snacks,Biscuits,200,g,40.0
+NIQ-1006,8901063092624,Britannia,Snacks,Biscuits,600,g,110.0
+NIQ-1007,8901764012273,Coca-Cola,Beverages,Carbonated Soft Drinks,750,ml,45.0
+NIQ-1008,8901764012280,Coca-Cola,Beverages,Carbonated Soft Drinks,2000,ml,95.0
+NIQ-1009,8902080000227,Pepsi,Beverages,Carbonated Soft Drinks,750,ml,45.0
+NIQ-1010,8901058851458,Maggi,Packaged Food,Instant Noodles,280,g,56.0
+NIQ-1011,8901058851465,Maggi,Packaged Food,Instant Noodles,560,g,105.0
+NIQ-1012,8901725121112,Aashirvaad,Staples,Atta,5000,g,265.0
+NIQ-1013,8901725121129,Aashirvaad,Staples,Atta,10000,g,510.0
+NIQ-1014,8901030865213,Brooke Bond Red Label,Beverages,Tea,500,g,270.0
+NIQ-1015,8901207019821,Tropicana,Beverages,Fruit Juice,1000,ml,125.0
